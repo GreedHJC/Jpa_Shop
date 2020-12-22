@@ -1,9 +1,6 @@
 package jpabook.jpashop;
 
 import jpabook.jpashop.domain.Book;
-import jpabook.jpashop.domain.Member;
-import jpabook.jpashop.domain.Movie;
-import org.hibernate.criterion.Order;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
